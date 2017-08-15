@@ -1,0 +1,14 @@
+.form p{
+    text-align: center;
+    margin-bottom: 2px !important;
+}
+
+.form-inline .form-control{
+    width: 100% !important;
+    margin-bottom: 10px !important;
+}
+
+.visual{
+    background: #dfdfdf !important;
+    cursor: not-allowed;
+}
